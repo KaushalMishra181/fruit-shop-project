@@ -1,2 +1,2 @@
 # fruit-shop-project
-fruit shop project python project 1st
+ 1st project python ( fruit shop )
